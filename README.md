@@ -19,9 +19,10 @@ The datasheet for the IC can be found [on the Microchip website](https://ww1.mic
 ### The Schematic
 ![MCP23008 Schematic](https://i.imgur.com/MhGq0gL.png)
 
-### Some Crappy pictures of the assembled board
+### Some photos of assembled board
 ![Crappy Phone Camera Pics](https://i.imgur.com/N8MhkFw.jpg)
 *nb: Adding the Resistor Network was a small oversight and is not present in this pic*
+
 
 ## I/O
 The board has 2 JST-XH4 headers on it to allow further devices to be daisy-chained. 
@@ -121,3 +122,5 @@ This will enumerate through each pin alternating between two boards and output t
 * 2x JST-XH 4 pin male headers
 * 1x 6 pin SPST DIP Switch
 * ?x bits of wire
+
+Developed by David Wilkins and Jack Darcy.
